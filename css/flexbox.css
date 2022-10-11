@@ -1,7 +1,10 @@
-.headerPrincipal-titulo{
-    display: inline-block;
-    
+.headerPrincipal .container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+
 }
 .headerPrincipal-nav{
-    display: inline-block;
+    display: flex;
 }
