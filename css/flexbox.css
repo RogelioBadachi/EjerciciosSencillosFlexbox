@@ -43,3 +43,18 @@
     display: flex;
     width: 23%;
 }
+.videoSobre .container{
+    display: flex;
+}
+.videoSobre-sobre{
+    display: flex;
+    flex-direction: column;
+    
+    text-align: center;
+}
+.videoSobre-video {
+    flex-grow: 2;
+}
+.videoSobre-sobre-list{
+    flex-grow: 2;
+}
