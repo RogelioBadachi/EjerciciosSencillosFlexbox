@@ -40,4 +40,8 @@
     .headerPrincipal-nav-link-app {
         order: -1;
     }
+    .videoSobre .container{
+        display: flex;
+        flex-direction: column;
+    }
 }

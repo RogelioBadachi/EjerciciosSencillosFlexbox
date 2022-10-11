@@ -49,7 +49,6 @@
 .videoSobre-sobre{
     display: flex;
     flex-direction: column;
-    
     text-align: center;
 }
 .videoSobre-video {
